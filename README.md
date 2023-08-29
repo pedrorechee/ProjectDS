@@ -1,6 +1,7 @@
 # Prevendo preços de imóveis 
 - Vamos trabalhar em um sistema preditivo para prever preços de imóveis na região do Airbnb Rio de Janeiro
 - Este é um projeto completo de Ciências de Dados. Do carregamento ao deploy
+- Os dados eu peguei deste link no Kaggle= https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro?resource=download
 
 ## 🤔 Objetivo
 - Criar um sistema na qual tanto o ofertante do imóvel e o cliente possa usar
