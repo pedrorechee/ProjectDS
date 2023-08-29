@@ -7,7 +7,7 @@
 - Criar um sistema na qual tanto o ofertante do imóvel e o cliente possa usar
 - O ofertande poderá saber o preço ideal na qual deve cobrar
 - O cliente poderá fazer um comparativo do imóvel na qual ele estar analisando com os demais ofertados
-- 
+
 ## ⚙ Etapas do projeto
 - Carregamento dos dados
 - Limpeza dos dados
