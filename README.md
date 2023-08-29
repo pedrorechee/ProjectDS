@@ -18,7 +18,7 @@
 
 ## 📌 Solução
 - No carregamento dos dados, utilizo a biblioteca pathilb para pegar os arquivos CSV
-- Na limpeza dos dados, realizo remocão de features, altero os tipos de dados, removo valores duplicados e trato valores ausentes
+- Na limpeza dos dados, realizo remoção de features, altero os tipos de dados, removo valores duplicados e trato valores ausentes
 - Na análise Exploratória, realizo análise descritiva e análise estatítica, com uso de diversoss gráficos 
 - No pré-processamento aplico técnicas de enconding utilizando o One-hot-Enconding
 - Na nossa modelagem preditiva testos 3 modelos
