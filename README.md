@@ -21,7 +21,7 @@
 - Na limpeza dos dados, realizo remoção de features, altero os tipos de dados, removo valores duplicados e trato valores ausentes
 - Na análise Exploratória, realizo análise descritiva e análise estatítica, com uso de diversoss gráficos 
 - No pré-processamento aplico técnicas de enconding utilizando o One-hot-Enconding
-- Na nossa modelagem preditiva testos 3 modelos
+- Na nossa modelagem preditiva testo 3 modelos
   
         Regressão Linear
         Ramdom Forest
